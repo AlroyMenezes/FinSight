@@ -54,6 +54,6 @@ Special thanks to the developers of the tools and libraries utilized in this pro
 This project is licensed under the [MIT License](LICENSE).
 
 ### Contact
-For any inquiries, suggestions, or collaborations, feel free to reach out via [email](alroyxmenezes@gmail.com) or [GitHub](https://github.com/AlroyMenezes).
+For any inquiries, suggestions, or collaborations, feel free to reach out via [email](mailto:alroyxmenezes@gmail.com) or [GitHub](https://github.com/AlroyMenezes).
 
 
