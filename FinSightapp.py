@@ -7,7 +7,7 @@ from vector_embeddings import get_vector_store
 from gemini import user_input
 from report_generation import generate_report
 
-# Adding background image (assuming this function handles it)
+# Adding background image 
 add_bg_from_local()
 
 # Streamlit UI
