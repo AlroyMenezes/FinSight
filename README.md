@@ -1,7 +1,3 @@
-Sure, here is a detailed description for your repository:
-
----
-
 ## FinSightApp
 
 **FinSightApp** is a comprehensive financial analysis application designed to provide insights from financial call transcripts. Using advanced AI models, the application processes uploaded PDFs of financial call transcripts, extracts relevant information, and generates a detailed report.
@@ -46,7 +42,3 @@ Sure, here is a detailed description for your repository:
 - **Custom Questions**: Allow users to define their own questions for analysis.
 - **Improved UI/UX**: Enhance the user interface for better user experience.
 - **Real-Time Analysis**: Implement real-time processing and analysis capabilities.
-
----
-
-This description should give potential users and contributors a clear understanding of what the project does, how it works, and its key features. Feel free to modify it to better fit your vision for the repository.
