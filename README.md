@@ -51,8 +51,9 @@ This project is inspired by the need for streamlined financial analysis and insi
 Special thanks to the developers of the tools and libraries utilized in this project.
 
 ### License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ### Contact
-For any inquiries, suggestions, or collaborations, feel free to reach out via email or GitHub.
+For any inquiries, suggestions, or collaborations, feel free to reach out via [email](alroyxmenezes@gmail.com) or [GitHub](AlroyMenezes).
+
 
