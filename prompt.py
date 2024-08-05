@@ -18,7 +18,7 @@ def generate_summary():
     Answer:
     """
     
-    GEMINI_API_KEY = "AIzaSyC98kAihYhIb-RHLUgdi__JK1ibzAb9t3w"
+    GEMINI_API_KEY = "YOUR_API_KEY"
     genai.configure(api_key=GEMINI_API_KEY)
 
     model = ChatGoogleGenerativeAI(model='gemini-1.5-flash', google_api_key=GEMINI_API_KEY)
