@@ -50,14 +50,8 @@ if st.button("Generate Summary"):
 
     with st.spinner("Generating report..."):
         template_path = "C:/Users/alroy/OneDrive/Documents/AIMIT/SEM 4/Domain Knowledge Project/Client Questionnaire Doc (1).docx"
-    #st.write("hi")
         updated_doc_path = generate_report(template_path,ot)
     
-    #st.write(ot)
-    #st.success("Done")
-    #st.markdown(ot,unsafe_allow_html=True)
-    # Apply light background to the markdown output
-    #st.markdown("<div style='background-color: #f0f0f0; padding: 10px;'>ot</div>",unsafe_allow_html=True)
     # Read the generated report for download
     with open(updated_doc_path, "rb") as file:
         btn = st.download_button(
