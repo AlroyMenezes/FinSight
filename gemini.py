@@ -7,7 +7,7 @@ from prompt import generate_summary
 
 def user_input():
     try:
-        GEMINI_API_KEY = "AIzaSyC98kAihYhIb-RHLUgdi__JK1ibzAb9t3w"
+        GEMINI_API_KEY = "YOUR_API_KEY"
         genai.configure(api_key=GEMINI_API_KEY)
         
         questions = [
