@@ -1,6 +1,6 @@
 from template_read import read_template
 from response_insert import insert_responses
-#import streamlit as st
+
 def generate_report(template_path,ot):
     doc = read_template(template_path)
     responses = ot 
