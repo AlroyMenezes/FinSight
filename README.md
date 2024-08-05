@@ -36,6 +36,7 @@
 - **template_read.py**: Reads the Word template for report generation.
 - **vector_embeddings.py**: Creates and manages the FAISS vector store for text embeddings.
 - **FinSightapp.py**: The main Streamlit application script.
+- **Client Questionnaire Doc (1).docx**: The Word template used for report generation.
 
 ### Future Enhancements
 - **Support for Multiple File Formats**: Extend support to other document formats.
