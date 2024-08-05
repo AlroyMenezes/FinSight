@@ -3,7 +3,6 @@ from response_insert import insert_responses
 #import streamlit as st
 def generate_report(template_path,ot):
     doc = read_template(template_path)
-    #st.write("hi")
     responses = ot 
     updated_doc = insert_responses(doc, responses)
     
